@@ -3,6 +3,8 @@ The Uncomplete GABB Source Code, full on Reji's discord Server.
 
 ![Screenshot](https://i.imgur.com/2foB84Z.png)
 
+## Download
+![Release](https://github.com/BillytheButcher/GABB/releases/tag/Fix) 
 
 ## Why have we decided to do this?
 - The source code fell into the wrong hands, and the one that perpetrated such a thing is willing to sell the source code for monetary gain. Rather than having some poor people waste hundreds of dollars for an older version of the source code to our project, we highly prefer releasing it for free and have it be an educational opportunity for many.
